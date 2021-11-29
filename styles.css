@@ -1,0 +1,23 @@
+#menu li {
+    display: inline-block;
+}
+#menu a {
+    display: block;
+    float: left;
+    margin-right: 0.12em;
+    padding: 1em 1.5em;
+    background: #178eae;
+    box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0, 0.25);
+    text-decoration: none;
+    text-shadow: 1px 1px 0px #0c749c;
+    text-transform: uppercase;
+    font-size: .90em;
+    color: black;
+}
+body {
+    margin: 0em;
+    padding: 0em;
+    background: #1eb0d7;
+    font-size: 10pt;
+    color: #525252;
+}
